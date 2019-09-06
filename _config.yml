@@ -27,7 +27,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  제가 바로 현빈정점입니다.
+  제가 바로 그 현빈정점입니다.
 
 # A list of keywords for your blog
 keywords:              []
@@ -39,19 +39,15 @@ logo:                  https://avatars0.githubusercontent.com/u/19828721?s=460&v
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Park HyeonBin
+  email:               sksms17456@naver.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Algorithm
+    url:               /Algorithm/
   - title:             About
     url:               /about/
 
