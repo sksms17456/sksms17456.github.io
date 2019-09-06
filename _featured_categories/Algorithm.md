@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Algorithm
-slug: Algorithm
+title: algorithm
+slug: algorithm
 menu: true
 order: 3
 description: >
