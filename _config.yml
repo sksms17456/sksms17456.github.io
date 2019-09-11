@@ -48,6 +48,8 @@ author:
 menu:
   - title:             Algorithm
     url:               /algorithm/
+  - title:             Python
+    url:               /python/
   - title:             About
     url:               /about/
 
