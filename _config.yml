@@ -47,9 +47,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Algorithm
-    url:               /sidemenu/algorithm/
+    url:               /algorithm/
   - title:             Python
-    url:               /sidemenu/python/
+    url:               /python/
   - title:             About
     url:               /about/
 
