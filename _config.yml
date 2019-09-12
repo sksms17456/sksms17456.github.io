@@ -50,6 +50,8 @@ menu:
     url:               /algorithm/
   - title:             Python
     url:               /python/
+  - title:             Study
+    url:               /study/
   - title:             About
     url:               /about/
 
