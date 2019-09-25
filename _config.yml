@@ -46,8 +46,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Algorithm
-    url:               /algorithm/
+  - title:             BaekJoon
+    url:               /backjoon/
+  - title:             Programmers
+    url:               /programmers/
   - title:             Python
     url:               /python/
   - title:             AI
