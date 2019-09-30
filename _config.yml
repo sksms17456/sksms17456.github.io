@@ -54,8 +54,6 @@ menu:
     url:               /python/
   - title:             AI
     url:               /ai/
-  - title:             Study
-    url:               /study/
   - title:             About
     url:               /about/
 
