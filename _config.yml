@@ -48,6 +48,8 @@ author:
 menu:
   - title:             BaekJoon
     url:               /backjoon/
+  - title:             SWEA
+    url:               /swea/
   - title:             Programmers
     url:               /programmers/
   - title:             Python
