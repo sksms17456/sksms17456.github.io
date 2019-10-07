@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 슬랙 봇과 AWS
+title: 슬랙봇과AWS
 description: >
 	AI프로젝트 중에 aws서버를 하나 제공해주고 우리의 봇을 24시간 돌릴수 있게 하라는 미션이 주어졌다.
 excerpt_separator: <!--more-->
