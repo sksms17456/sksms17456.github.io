@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Programmers_level2_기능개발
+title: Slack_and_AWS
 description: >
-    [https://programmers.co.kr/learn/courses/30/lessons/42586](https://programmers.co.kr/learn/courses/30/lessons/42586)
+    [AI프로젝트 중에 aws서버를 하나 제공해주고 우리의 봇을 24시간 돌릴수 있게 하라는 미션이 주어졌다.]
 excerpt_separator: <!--more-->
 
 ---
