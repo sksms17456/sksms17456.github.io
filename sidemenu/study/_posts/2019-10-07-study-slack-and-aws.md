@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Slack_and_AWS
+title: Programmers_level2_기능개발
 description: >
-	AI프로젝트 중에 aws서버를 하나 제공해주고 우리의 봇을 24시간 돌릴수 있게 하라는 미션이 주어졌다.
+    [https://programmers.co.kr/learn/courses/30/lessons/42586](https://programmers.co.kr/learn/courses/30/lessons/42586)
 excerpt_separator: <!--more-->
 
 ---
@@ -122,14 +122,10 @@ $ kill -9 '프로세스번호'
 ```
 
 - #### nohup
-
   리눅스나 유닉스에서 쉘스크립트 파일을 데몬형태로 실행시키는 프로그램이다. 터미널 세션이 끊겨도 실행을 멈추지 않고 동작할 수 있도록!!
 
 - ##### &
-
   프로세스를 실행할 때 백그라운드에서 동작하도록 !!
-
-  
 
 요정도..로 nohup으로 실행시켜주면 신기하게도 쉘스크립트를 종료해도 슬랙봇을 계속 사용할 수 있다!!! 우와 짱신기~~ 와.. 계속 안되다가 마지막에 제대로 동작했을 때의 쾌감은 정말 말로 설명할 수 없다. 
 
