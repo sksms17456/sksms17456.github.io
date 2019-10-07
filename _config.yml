@@ -130,7 +130,7 @@ defaults:
         type:          WebPage
   - scope:
       type:            posts
-      values:
+    values:
       comments:         true
 
 
