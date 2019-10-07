@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BAEK_16637_괄호 추가하기
+title: Slack_and_AWS
 description: >
 	AI프로젝트 중에 aws서버를 하나 제공해주고 우리의 봇을 24시간 돌릴수 있게 하라는 미션이 주어졌다.
 excerpt_separator: <!--more-->
