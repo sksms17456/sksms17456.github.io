@@ -56,6 +56,8 @@ menu:
     url:               /study/
   - title:             AI
     url:               /ai/
+  - title:             OS
+    url:               /os/
   - title:             About
     url:               /about/
 
