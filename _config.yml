@@ -58,6 +58,8 @@ menu:
     url:               /ai/
   - title:             OS
     url:               /os/
+  - title:             Java
+    url:               /java/
   - title:             About
     url:               /about/
 
