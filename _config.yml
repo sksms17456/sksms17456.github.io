@@ -60,6 +60,8 @@ menu:
     url:               /os/
   - title:             Java
     url:               /java/
+  - title:             CleanCode
+    url:               /cleancode/
   - title:             About
     url:               /about/
 
