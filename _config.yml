@@ -54,8 +54,8 @@ menu:
     url:               /programmers/
   - title:             Study
     url:               /study/
-  - title:             AI
-    url:               /ai/
+  - title:             WorkOut
+    url:               /workout/
   - title:             OS
     url:               /os/
   - title:             Java
