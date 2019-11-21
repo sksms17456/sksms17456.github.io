@@ -2,7 +2,7 @@
 layout: post
 title: Process Management
 description: >
-    [프로세스의 개념을 알아보자!]
+    [프로세스 관리에 대해 알아보자!]
 excerpt_separator: <!--more-->
 
 ---
