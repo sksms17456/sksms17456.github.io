@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 운영체제란?
+title: Operating System
 description: >
     운영체제가 무엇인지 알아보자!!
 excerpt_separator: <!--more-->

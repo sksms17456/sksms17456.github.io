@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 스케쥴러
+title: Sceduler
 description: >
     [운영체제 - 스케쥴러]
 excerpt_separator: <!--more-->

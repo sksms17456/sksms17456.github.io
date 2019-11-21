@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 프로세스란?
+title: Process
 description: >
     [프로세스의 개념을 알아보자!]
 excerpt_separator: <!--more-->
