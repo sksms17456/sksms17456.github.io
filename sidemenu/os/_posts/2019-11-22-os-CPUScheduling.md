@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CPU Shceduling
+title: CPU Scheduling
 description: >
     [CPU 스케쥴링에 대해 알아보자!]
 excerpt_separator: <!--more-->
