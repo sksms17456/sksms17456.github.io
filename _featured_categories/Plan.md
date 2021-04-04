@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Monthly Plan
-slug: monthly plan
+title: Plan
+slug: plan
 menu: true
 order: 9
 description: >
