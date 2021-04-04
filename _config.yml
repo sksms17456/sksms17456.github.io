@@ -62,6 +62,8 @@ menu:
     url:               /java/
   - title:             UI
     url:               /ui/
+  - title:             Plan
+    url:               /plan/
   - title:             About
     url:               /about/
 
